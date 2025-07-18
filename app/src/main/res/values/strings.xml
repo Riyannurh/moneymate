@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aplikasi_ku">APLIKASI KU</string>
+    <string name="form">Form</string>
+    <string name="perkalian">Perkalian</string>
+    <string name="c_ke_f">C ke F</string>
+    <string name="pertambahan">Pertambahan</string>
+    <string name="footer">Footer</string>
+    <string name="moneymate">MONEYMATE</string>
+</resources>
